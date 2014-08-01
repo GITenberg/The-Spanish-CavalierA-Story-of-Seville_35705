@@ -1,0 +1,18 @@
+%pagenumbers = (
+);
+
+$bookmarks[0] = '1.55';
+
+
+@operations = (
+'Tue Mar 29 14:03:29 2011 - Open C:\ACTIVE\ADD\35705\35705-8.txt',
+'Tue Mar 29 14:04:12 2011 - Gutcheck',
+'Tue Mar 29 14:04:30 2011 - End-of-line Spaces',
+'Tue Mar 29 14:04:37 2011 - File Saved',
+);
+
+$spellindexbkmrk = '';
+
+$scannoslistpath = '';
+
+1;
